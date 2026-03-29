@@ -3,6 +3,7 @@ HR analytics project using Power BI
 
 This project explores factors influencing employee performance and job involvement using HR data.  
 The goal was to identify potential drivers of employee effectiveness and engagement and present findings through an interactive Power BI dashboard.
+This analysis helps understand whether employee performance and engagement are driven by measurable factors or remain relatively stable across the organization.
 
 ## Dashboard Preview
 
