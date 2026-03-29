@@ -32,7 +32,7 @@ The goal was to identify potential drivers of employee effectiveness and engagem
 - License: CC BY 4.0  
 
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI (Power Query) – data cleaning  
 - Power BI – data modeling and visualization  
 - DAX – measures and calculations  
