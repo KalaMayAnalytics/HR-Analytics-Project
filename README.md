@@ -63,7 +63,8 @@ The report consists of three main sections:
   - Job Involvement and other variables  
 - Employee performance is relatively stable across analyzed groups  
 - Job involvement shows minor variation, slightly higher among senior employees  
-- No clear drivers of performance or engagement were identified  
+- No clear drivers of performance or engagement were identified
+- The limited variability of Performance Rating (mostly values 3 and 4) suggests that the evaluation scale may be too coarse, potentially masking meaningful differences between employees
 
 
 ## Limitations
@@ -76,7 +77,8 @@ The report consists of three main sections:
 Further analysis could focus on:
 - Differences between employees who stayed and those who left (attrition)  
 - Relationships between satisfaction metrics and employee turnover  
-- Identifying early indicators of attrition  
+- Identifying early indicators of attrition
+- Revising or extending the performance evaluation scale to capture more granular differences between employees
 
 
 ## Documentation
